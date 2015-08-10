@@ -1,0 +1,1 @@
+connect your device over Wifi
